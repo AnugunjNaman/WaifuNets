@@ -11,7 +11,7 @@ $ python script.py
 ```
 
 ### Results
-![Resulting Fake Images along with Real Images](result-fake-real.png)
+![Resulting Fake Images along with Real Images](result-fake.png)
 
 ![Resulting Graph](result-graph.png)
 ### Dataset
