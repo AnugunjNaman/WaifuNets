@@ -11,12 +11,9 @@ $ python script.py
 ```
 
 ### Results
-
 ![Resulting Fake Images along with Real Images](result-fake-real.png)
 
 ![Resulting Graph](result-graph.png)
-
-
 ### Dataset
 
 Anime-style images  of 125 tags are collected from [danbooru.donmai.us](http://danbooru.donmai.us/).
